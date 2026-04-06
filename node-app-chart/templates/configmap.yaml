@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata: 
   name: node-hello-config 
 data: 
-  APP_MESSAGE: "Hello from the Automated Pipeline!" 
+  APP_MESSAGE: "Greetings from the Production ConfigMap!" 
